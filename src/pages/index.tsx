@@ -1,5 +1,5 @@
-import TestEnvs from "./testEnvs";
+import Privy from "./privy/privy";
 
 export default function Home() {
-  <TestEnvs />;
+  <Privy />;
 }
