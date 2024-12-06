@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@civic/ethereum-gateway-react": "v1.4.1-beta.2",
+    "@civic/ethereum-gateway-react": "^1.4.5",
     "@privy-io/react-auth": "1.92.3",
     "dotenv": "^16.4.5",
     "ethers": "^6.11.1",
